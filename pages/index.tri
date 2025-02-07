@@ -1,0 +1,12 @@
+__::start__
+<div class="page page-landing">
+	<p>
+		<button id="form-dialog-button" type="button">Open Form Dialog</button>
+		
+	</p>
+	<p>
+		<button id="info-dialog-button" type="button">Open Info Dialog</button>
+		
+	</p>
+</div>
+__::end__

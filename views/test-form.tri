@@ -1,0 +1,35 @@
+<label> Name
+	<br>
+	<input name="name" type="text" />
+</label>
+<br>
+<label> Sex
+	<br>
+	<select name="sex">
+		<option value="">-- please choose --</option>
+		<option value="male">male</option>
+		<option value="female">female</option>
+	</select>
+</label>
+<br>
+<label> Bio
+	<br>
+	<textarea name="bio"></textarea>
+</label>
+<br>
+<div> Newsletter
+	<label>
+		<input name="newsletter" type="checkbox" />
+	</label>
+</div>
+<br>
+<div> Pet
+	<br>
+	<label>
+		<input name="pets" type="radio" value="cats" /> Cats
+	</label>
+	<br>
+	<label>
+		<input name="pets" type="radio" value="dogs" /> Dogs
+	</label>
+</div>
