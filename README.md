@@ -5,7 +5,7 @@ Presents a dialog (normally with a form) and resolves with the form information.
 ## Install
 
 ```bash
-npm install @webhandle/form-answer-dailog
+npm install @webhandle/form-answer-dialog
 ```
 
 ## Usage

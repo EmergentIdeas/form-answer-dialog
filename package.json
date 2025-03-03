@@ -1,6 +1,6 @@
 {
 	"name": "@webhandle/form-answer-dialog",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"main": "client-lib/form-answer-dialog.mjs",
 	"scripts": {
 		"test": "node_modules/mocha/bin/mocha",
